@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions>
+      <entry name=".+\.(properties|xml|html|dtd|tld)" />
+      <entry name=".+\.(gif|png|jpeg|jpg)" />
+    </resourceExtensions>
+    <wildcardResourcePatterns>
+      <entry name="!?*.class" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.java" />
+      <entry name="!?*.groovy" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel target="1.8">
+      <module name="exercise-scala-checkout-service_main" target="1.8" />
+      <module name="exercise-scala-checkout-service_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/current" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+  <component name="GradleUISettings">
+    <setting name="root" />
+  </component>
+  <component name="GradleUISettings2">
+    <setting name="root" />
+  </component>
+  <component name="IdProvider" IDEtalkID="11DA1DB66DD62DDA1ED602B7079FE97C" />
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="true" />
+    <option name="OPTION_NAVIGATOR" value="true" />
+    <option name="OPTION_INDEX" value="true" />
+    <option name="OPTION_SEPARATE_INDEX" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
+    <option name="OPTION_DEPRECATED_LIST" value="true" />
+    <option name="OTHER_OPTIONS" value="" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise-scala-checkout-service.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise-scala-checkout-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise-scala-checkout-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise-scala-checkout-service_main.iml" group="exercise-scala-checkout-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise-scala-checkout-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise-scala-checkout-service_test.iml" group="exercise-scala-checkout-service" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Gradle 1" modules="exercise-scala-checkout-service">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <parameters>
+        <parameter value="-target:jvm-1.8" />
+      </parameters>
+    </profile>
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="Gradle: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.4">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/7369d653bcfa95d321994660477a4d7e81d7f490/scala-parser-combinators_2.11-1.0.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/2c66955d5543265eb450de4e9ec7ac467d94be54/scala-parser-combinators_2.11-1.0.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.scala-lang.modules:scala-xml_2.11:1.0.5">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.5/77ac9be4033768cf03cc04fbd1fc5e5711de2459/scala-xml_2.11-1.0.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.5/ca7f8ffad89550695d29fdd45d251d2f41447a8c/scala-xml_2.11-1.0.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.scala-lang:scala-library:2.11.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.8/fe1285c9f7b58954c5ef6d80b59063569c065e9a/scala-compiler-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.8/b74530deeba742ab4f3134de0c2da0edc49ca361/scala-reflect-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.4/b67c76af885ba3323ce51bbed4c9232f4bd5d8fd/scala-xml_2.11-1.0.4.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/7369d653bcfa95d321994660477a4d7e81d7f490/scala-parser-combinators_2.11-1.0.4.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/17178a95c4b47c0a9745cfb8d01924359824fd7c/scala-library-2.11.8-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.scala-lang:scala-reflect:2.11.8">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.8/b74530deeba742ab4f3134de0c2da0edc49ca361/scala-reflect-2.11.8.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.8/32eef07115a9e120a1b9d1802d6afc5a931577ce/scala-reflect-2.11.8-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.scalactic:scalactic_2.11:3.0.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalactic/scalactic_2.11/3.0.0/2cd29a726b0672cd5b7d10a21a95a2848d0f81d6/scalactic_2.11-3.0.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalactic/scalactic_2.11/3.0.0/3499144b1c6827fbcda03801e33f64a0167593f7/scalactic_2.11-3.0.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.scalatest:scalatest_2.11:3.0.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest_2.11/3.0.0/5cd41e3452a015179356ab30de4440ae7dc999f8/scalatest_2.11-3.0.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest_2.11/3.0.0/d91a84b7ad7761803daa3f2d6e45f82bde16b717/scalatest_2.11-3.0.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.11.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.8/fe1285c9f7b58954c5ef6d80b59063569c065e9a/scala-compiler-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.8/b74530deeba742ab4f3134de0c2da0edc49ca361/scala-reflect-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.4/b67c76af885ba3323ce51bbed4c9232f4bd5d8fd/scala-xml_2.11-1.0.4.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/7369d653bcfa95d321994660477a4d7e81d7f490/scala-parser-combinators_2.11-1.0.4.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+      <state key="Copyright.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+        </UIState>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl>
+              <option name="proportions">
+                <list>
+                  <option value="0.2" />
+                </list>
+              </option>
+            </SplitterProportionsDataImpl>
+          </splitter-proportions>
+          <last-edited>1.6</last-edited>
+        </UIState>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+    </states>
+  </component>
+</project>

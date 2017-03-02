@@ -22,7 +22,7 @@ class CheckoutService {
   }
 
   private def applyThreeForTwoPromo(singleItemPrice: Long, count: Int): Long = {
-    (count / 3 * (2 * singleItemPrice)) + (count % 3 * (2 * singleItemPrice))
+    (count / 3 * (2 * singleItemPrice)) + (count % 3 * singleItemPrice)
   }
 
 }
